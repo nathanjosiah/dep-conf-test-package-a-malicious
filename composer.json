@@ -1,10 +1,10 @@
 {
-    "name": "nathanjosiah/dep-conf-test-package-a",
+    "name": "nathanjosiah\/dep-conf-test-package-a",
     "version": "1.0.1",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Nathanjosiah\\DepConfTestPackageA\\": "src/"
+            "Nathanjosiah\\DepConfTestPackageA\\": "src\/"
         }
     },
     "authors": [
@@ -13,5 +13,5 @@
             "email": "nathsmit@adobe.com"
         }
     ],
-    "require": {}
+    "require": []
 }
