@@ -1,0 +1,17 @@
+{
+    "name": "nathanjosiah/dep-conf-test-package-a",
+    "version": "1.0.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nathanjosiah\\DepConfTestPackageA\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nathan Smith",
+            "email": "nathsmit@adobe.com"
+        }
+    ],
+    "require": {}
+}
