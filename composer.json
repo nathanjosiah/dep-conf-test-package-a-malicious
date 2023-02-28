@@ -1,6 +1,6 @@
 {
     "name": "nathanjosiah\/dep-conf-test-package-a",
-    "version": "1.0.12",
+    "version": "1.0.12-beta1",
     "type": "library",
     "autoload": {
         "psr-4": {
